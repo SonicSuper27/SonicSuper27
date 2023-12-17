@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonicSuper27
 - 👀 I’m interested in Web Devepolment and Data Analysis
-- 🌱 I’m currently learning php, data mining, python, web technolog
+- 🌱 I’m currently learning php, data mining, python, web technology
 
 
 <!---
